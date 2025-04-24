@@ -15,7 +15,7 @@ This project aims to **automate thyroid disease diagnosis** using machine learni
 - **Healthcare Focus**: Designed to assist doctors in early diagnosis.
 
 ## 📊 Dataset
-- **Source**: [UCI Thyroid Disease Dataset](https://archive.ics.uci.edu/ml/datasets/thyroid+disease) (or your custom dataset)
+- **Source**: [UCI Thyroid Disease Dataset]
 - **Features**:
   - Clinical: `TSH`, `T3`, `TT4`, `T4U`, `FTI`
   - Demographic: `age`, `sex`, `pregnant`
